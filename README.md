@@ -32,7 +32,6 @@ namespace RiderLibraryTest
         {
             Marshal.ReleaseComObject(ExcelWorkbook);
             ExcelWorkbook = null;
-            MessageBox.Show("Cleanup Success");
         }
     }
 }
