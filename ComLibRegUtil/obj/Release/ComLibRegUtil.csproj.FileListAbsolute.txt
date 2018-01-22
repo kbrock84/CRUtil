@@ -1,0 +1,8 @@
+C:\Users\PC\RiderProjects\RiderLibraryTest\ComLibRegUtil\bin\Release\ComLibRegUtil.dll
+C:\Users\PC\RiderProjects\RiderLibraryTest\ComLibRegUtil\bin\Release\ComLibRegUtil.pdb
+C:\Users\PC\RiderProjects\RiderLibraryTest\ComLibRegUtil\bin\Release\Newtonsoft.Json.dll
+C:\Users\PC\RiderProjects\RiderLibraryTest\ComLibRegUtil\bin\Release\Newtonsoft.Json.xml
+C:\Users\PC\RiderProjects\RiderLibraryTest\ComLibRegUtil\obj\Release\ComLibRegUtil.csprojResolveAssemblyReference.cache
+C:\Users\PC\RiderProjects\RiderLibraryTest\ComLibRegUtil\obj\Release\ComLibRegUtil.csproj.CoreCompileInputs.cache
+C:\Users\PC\RiderProjects\RiderLibraryTest\ComLibRegUtil\obj\Release\ComLibRegUtil.dll
+C:\Users\PC\RiderProjects\RiderLibraryTest\ComLibRegUtil\obj\Release\ComLibRegUtil.pdb
