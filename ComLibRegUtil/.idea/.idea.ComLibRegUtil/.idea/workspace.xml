@@ -2,42 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="011e2ae9-993f-404c-b379-3cbfcb64ab49" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ComLibRegUtil/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.ComLibRegUtil/.idea/contentModel.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ComLibRegUtil/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.ComLibRegUtil/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ComLibRegUtil.csproj" afterPath="$PROJECT_DIR$/ComLibRegUtil.csproj" />
-      <change beforePath="$PROJECT_DIR$/ComRegistrationApp/Program.cs" afterPath="$PROJECT_DIR$/ComRegistrationApp/Program.cs" />
-      <change beforePath="$PROJECT_DIR$/Data/Config.cs" afterPath="$PROJECT_DIR$/CRUtil/Data/Config.cs" />
-      <change beforePath="$PROJECT_DIR$/Data/ConfigJsonReader.cs" afterPath="$PROJECT_DIR$/CRUtil/Data/ConfigJsonReader.cs" />
-      <change beforePath="$PROJECT_DIR$/Data/ConfigJsonWriter.cs" afterPath="$PROJECT_DIR$/CRUtil/Data/ConfigJsonWriter.cs" />
-      <change beforePath="$PROJECT_DIR$/Directories/DirectoryLocator.cs" afterPath="$PROJECT_DIR$/CRUtil/Directories/DirectoryLocator.cs" />
-      <change beforePath="$PROJECT_DIR$/Directories/IDirectoryLocator.cs" afterPath="$PROJECT_DIR$/CRUtil/Directories/IDirectoryLocator.cs" />
-      <change beforePath="$PROJECT_DIR$/Directories/IExecutableLocation.cs" afterPath="$PROJECT_DIR$/CRUtil/Directories/IExecutableLocation.cs" />
-      <change beforePath="$PROJECT_DIR$/Directories/ISimpleDirectory.cs" afterPath="$PROJECT_DIR$/CRUtil/Directories/ISimpleDirectory.cs" />
-      <change beforePath="$PROJECT_DIR$/Directories/ISimpleFile.cs" afterPath="$PROJECT_DIR$/CRUtil/Directories/ISimpleFile.cs" />
-      <change beforePath="$PROJECT_DIR$/Directories/RegAsmLocation.cs" afterPath="$PROJECT_DIR$/CRUtil/Directories/RegAsmLocation.cs" />
-      <change beforePath="$PROJECT_DIR$/Directories/SimpleDirectory.cs" afterPath="$PROJECT_DIR$/CRUtil/Directories/SimpleDirectory.cs" />
-      <change beforePath="$PROJECT_DIR$/Directories/SimpleFile.cs" afterPath="$PROJECT_DIR$/CRUtil/Directories/SimpleFile.cs" />
-      <change beforePath="$PROJECT_DIR$/Dll/ComDllRegistration.cs" afterPath="$PROJECT_DIR$/CRUtil/Dll/ComDllRegistration.cs" />
-      <change beforePath="$PROJECT_DIR$/Dll/DllInstaller.cs" afterPath="$PROJECT_DIR$/CRUtil/Dll/DllInstaller.cs" />
-      <change beforePath="$PROJECT_DIR$/Dll/IDllRegistration.cs" afterPath="$PROJECT_DIR$/CRUtil/Dll/IDllRegistration.cs" />
-      <change beforePath="$PROJECT_DIR$/Dll/ISimpleProcess.cs" afterPath="$PROJECT_DIR$/CRUtil/Dll/ISimpleProcess.cs" />
-      <change beforePath="$PROJECT_DIR$/Dll/SimpleProcess.cs" afterPath="$PROJECT_DIR$/CRUtil/Dll/SimpleProcess.cs" />
-      <change beforePath="$PROJECT_DIR$/Properties/AssemblyInfo.cs" afterPath="$PROJECT_DIR$/CRUtil/Properties/AssemblyInfo.cs" />
-      <change beforePath="$PROJECT_DIR$/TestComLibRegUtil/TestComDllRegistration.cs" afterPath="$PROJECT_DIR$/TestComLibRegUtil/TestComDllRegistration.cs" />
-      <change beforePath="$PROJECT_DIR$/TestComLibRegUtil/TestDirectoryLocator.cs" afterPath="$PROJECT_DIR$/TestComLibRegUtil/TestDirectoryLocator.cs" />
-      <change beforePath="$PROJECT_DIR$/TestComLibRegUtil/TestRegAsmLocation.cs" afterPath="$PROJECT_DIR$/TestComLibRegUtil/TestRegAsmLocation.cs" />
-      <change beforePath="$PROJECT_DIR$/TestComLibRegUtil/bin/Debug/ComLibRegUtil.dll" afterPath="$PROJECT_DIR$/TestComLibRegUtil/bin/Debug/ComLibRegUtil.dll" />
-      <change beforePath="$PROJECT_DIR$/TestComLibRegUtil/bin/Debug/ComLibRegUtil.pdb" afterPath="$PROJECT_DIR$/TestComLibRegUtil/bin/Debug/ComLibRegUtil.pdb" />
-      <change beforePath="$PROJECT_DIR$/TestComLibRegUtil/bin/Debug/TestComLibRegUtil.dll" afterPath="$PROJECT_DIR$/TestComLibRegUtil/bin/Debug/TestComLibRegUtil.dll" />
-      <change beforePath="$PROJECT_DIR$/TestComLibRegUtil/bin/Debug/TestComLibRegUtil.pdb" afterPath="$PROJECT_DIR$/TestComLibRegUtil/bin/Debug/TestComLibRegUtil.pdb" />
-      <change beforePath="$PROJECT_DIR$/TestComLibRegUtil/obj/Debug/TestComLibRegUtil.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/TestComLibRegUtil/obj/Debug/TestComLibRegUtil.csprojResolveAssemblyReference.cache" />
-      <change beforePath="$PROJECT_DIR$/TestComLibRegUtil/obj/Debug/TestComLibRegUtil.dll" afterPath="$PROJECT_DIR$/TestComLibRegUtil/obj/Debug/TestComLibRegUtil.dll" />
-      <change beforePath="$PROJECT_DIR$/TestComLibRegUtil/obj/Debug/TestComLibRegUtil.pdb" afterPath="$PROJECT_DIR$/TestComLibRegUtil/obj/Debug/TestComLibRegUtil.pdb" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/ComLibRegUtil.dll" afterPath="$PROJECT_DIR$/bin/Debug/ComLibRegUtil.dll" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/ComLibRegUtil.pdb" afterPath="$PROJECT_DIR$/bin/Debug/ComLibRegUtil.pdb" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/ComLibRegUtil.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/obj/Debug/ComLibRegUtil.csproj.CoreCompileInputs.cache" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/ComLibRegUtil.dll" afterPath="$PROJECT_DIR$/obj/Debug/ComLibRegUtil.dll" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/ComLibRegUtil.pdb" afterPath="$PROJECT_DIR$/obj/Debug/ComLibRegUtil.pdb" />
+      <change beforePath="$PROJECT_DIR$/ComRegistrationApp/bin/Debug/ComLibRegUtil.dll" afterPath="$PROJECT_DIR$/ComRegistrationApp/bin/Debug/ComLibRegUtil.dll" />
+      <change beforePath="$PROJECT_DIR$/ComRegistrationApp/bin/Debug/ComLibRegUtil.pdb" afterPath="$PROJECT_DIR$/ComRegistrationApp/bin/Debug/ComLibRegUtil.pdb" />
+      <change beforePath="$PROJECT_DIR$/ComRegistrationApp/bin/Debug/ComRegistrationApp.exe" afterPath="$PROJECT_DIR$/ComRegistrationApp/bin/Debug/ComRegistrationApp.exe" />
+      <change beforePath="$PROJECT_DIR$/ComRegistrationApp/bin/Debug/ComRegistrationApp.pdb" afterPath="$PROJECT_DIR$/ComRegistrationApp/bin/Debug/ComRegistrationApp.pdb" />
+      <change beforePath="$PROJECT_DIR$/ComRegistrationApp/obj/Debug/ComRegistrationApp.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/ComRegistrationApp/obj/Debug/ComRegistrationApp.csprojResolveAssemblyReference.cache" />
+      <change beforePath="$PROJECT_DIR$/ComRegistrationApp/obj/Debug/ComRegistrationApp.exe" afterPath="$PROJECT_DIR$/ComRegistrationApp/obj/Debug/ComRegistrationApp.exe" />
+      <change beforePath="$PROJECT_DIR$/ComRegistrationApp/obj/Debug/ComRegistrationApp.pdb" afterPath="$PROJECT_DIR$/ComRegistrationApp/obj/Debug/ComRegistrationApp.pdb" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/Properties/AssemblyInfo.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/TestProject1.csproj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/ComLibRegUtil.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/ComLibRegUtil.pdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/Newtonsoft.Json.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/Newtonsoft.Json.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/System.IO.Abstractions.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/TestProject1.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/TestProject1.pdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/TestingHelpers.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/nunit.framework.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/nunit.framework.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/obj/Debug/TestProject1.csproj.CopyComplete" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/obj/Debug/TestProject1.csproj.CoreCompileInputs.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/obj/Debug/TestProject1.csproj.FileListAbsolute.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/obj/Debug/TestProject1.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/obj/Debug/TestProject1.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/obj/Debug/TestProject1.pdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/packages.config" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,25 +42,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TestComDllRegistration.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TestComLibRegUtil/TestComDllRegistration.cs">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ComRegistrationApp/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1430">
-              <caret line="68" column="37" lean-forward="false" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+            <state relative-caret-position="286">
+              <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
               <folding>
-                <marker date="1517190840735" expanded="false" signature="6:111" ph="..." />
-                <marker date="1517190840735" expanded="true" signature="140:3134" ph="{...}" />
-                <marker date="1517190840735" expanded="true" signature="200:3132" ph="{...}" />
-                <marker date="1517190840735" expanded="true" signature="255:637" ph="{...}" />
-                <marker date="1517190840735" expanded="true" signature="369:441" ph="{...}" />
-                <marker date="1517190840735" expanded="true" signature="501:566" ph="{...}" />
-                <marker date="1517190840735" expanded="true" signature="599:627" ph="{...}" />
-                <marker date="1517190840735" expanded="true" signature="689:996" ph="{...}" />
-                <marker date="1517190840735" expanded="true" signature="800:872" ph="{...}" />
-                <marker date="1517190840735" expanded="true" signature="920:985" ph="{...}" />
-                <marker date="1517190840735" expanded="true" signature="1099:1777" ph="{...}" />
-                <marker date="1517190840735" expanded="true" signature="1886:2453" ph="{...}" />
-                <marker date="1517190840735" expanded="true" signature="2559:3126" ph="{...}" />
+                <marker date="1517190826849" expanded="false" signature="6:104" ph="..." />
+                <marker date="1517190826849" expanded="true" signature="134:767" ph="{...}" />
+                <marker date="1517190826849" expanded="true" signature="163:765" ph="{...}" />
+                <marker date="1517190826849" expanded="true" signature="216:759" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -167,7 +152,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="695" />
     <option name="y" value="60" />
     <option name="width" value="1221" />
@@ -301,12 +286,12 @@
       <workItem from="1517110993779" duration="4253000" />
       <workItem from="1517117073798" duration="4488000" />
       <workItem from="1517154695639" duration="1267000" />
-      <workItem from="1517160111581" duration="2454000" />
+      <workItem from="1517160111581" duration="2832000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37405000" />
+    <option name="totallyTimeSpent" value="37783000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -318,15 +303,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
-    <editor active="true" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27837837" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -553,7 +537,7 @@
         <state relative-caret-position="242">
           <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
           <folding>
-            <marker date="1517190826849" expanded="true" signature="6:104" ph="..." />
+            <marker date="1517190826849" expanded="false" signature="6:104" ph="..." />
             <marker date="1517190826849" expanded="true" signature="134:767" ph="{...}" />
             <marker date="1517190826849" expanded="true" signature="163:765" ph="{...}" />
             <marker date="1517190826849" expanded="true" signature="216:759" ph="{...}" />
@@ -566,7 +550,7 @@
         <state relative-caret-position="242">
           <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
           <folding>
-            <marker date="1517190826849" expanded="true" signature="6:104" ph="..." />
+            <marker date="1517190826849" expanded="false" signature="6:104" ph="..." />
             <marker date="1517190826849" expanded="true" signature="134:767" ph="{...}" />
             <marker date="1517190826849" expanded="true" signature="163:765" ph="{...}" />
             <marker date="1517190826849" expanded="true" signature="216:759" ph="{...}" />
@@ -810,19 +794,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ComRegistrationApp/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1517190826849" expanded="true" signature="6:104" ph="..." />
-            <marker date="1517190826849" expanded="true" signature="134:767" ph="{...}" />
-            <marker date="1517190826849" expanded="true" signature="163:765" ph="{...}" />
-            <marker date="1517190826849" expanded="true" signature="216:759" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CRUtil/Dll/ComDllRegistration.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-572">
@@ -897,6 +868,19 @@
             <marker date="1517190840735" expanded="true" signature="1099:1777" ph="{...}" />
             <marker date="1517190840735" expanded="true" signature="1886:2453" ph="{...}" />
             <marker date="1517190840735" expanded="true" signature="2559:3126" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComRegistrationApp/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+          <folding>
+            <marker date="1517190826849" expanded="false" signature="6:104" ph="..." />
+            <marker date="1517190826849" expanded="true" signature="134:767" ph="{...}" />
+            <marker date="1517190826849" expanded="true" signature="163:765" ph="{...}" />
+            <marker date="1517190826849" expanded="true" signature="216:759" ph="{...}" />
           </folding>
         </state>
       </provider>
