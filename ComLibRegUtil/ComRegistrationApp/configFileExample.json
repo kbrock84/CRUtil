@@ -1,0 +1,5 @@
+{
+    "LibraryOrigin":"C:\\SomeDirectory\\MyLibrary.dll",
+    "LibraryDestination":"C:\\Windows\\SysWOW64\\MyLibrary.dll",
+    "OutputFileName":"MyLibraryTlb.dll"
+}
