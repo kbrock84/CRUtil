@@ -1,6 +1,6 @@
-﻿using ComLibRegUtil.Data;
-using ComLibRegUtil.Directories;
-using ComLibRegUtil.Dll;
+﻿using ComLibRegUtil.CRutil.Data;
+using ComLibRegUtil.CRutil.Directories;
+using ComLibRegUtil.CRutil.Dll;
 
 namespace ComRegistrationApp
 {

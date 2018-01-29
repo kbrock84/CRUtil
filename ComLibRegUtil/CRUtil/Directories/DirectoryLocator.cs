@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ComLibRegUtil.Directories
+namespace ComLibRegUtil.CRutil.Directories
 {
     public class DirectoryLocator : IDirectoryLocator
     {

@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-namespace ComLibRegUtil.Dll
+namespace ComLibRegUtil.CRutil.Dll
 {
     internal class SimpleProcess : ISimpleProcess
     {

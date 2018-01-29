@@ -1,4 +1,4 @@
-﻿namespace ComLibRegUtil.Directories
+﻿namespace ComLibRegUtil.CRutil.Directories
 {
     public interface ISimpleFile
     {

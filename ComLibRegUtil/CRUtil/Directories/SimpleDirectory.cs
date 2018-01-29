@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.IO;
 
-namespace ComLibRegUtil.Directories
+namespace ComLibRegUtil.CRutil.Directories
 {
     public class SimpleDirectory : ISimpleDirectory
     {

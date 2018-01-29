@@ -1,8 +1,8 @@
 ﻿using System.IO;
-using ComLibRegUtil.Data;
-using ComLibRegUtil.Directories;
+using ComLibRegUtil.CRutil.Data;
+using ComLibRegUtil.CRutil.Directories;
 
-namespace ComLibRegUtil.Dll
+namespace ComLibRegUtil.CRutil.Dll
 {
     public class DllInstaller
     {

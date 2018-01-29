@@ -1,6 +1,5 @@
-﻿using System.Threading;
-
-namespace ComLibRegUtil.Dll
+﻿
+namespace ComLibRegUtil.CRutil.Dll
 {
     public interface ISimpleProcess
     {

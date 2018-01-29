@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using ComLibRegUtil.Directories;
+using ComLibRegUtil.CRutil.Directories;
 using NUnit.Framework;
 
 namespace TestComLibRegUtil

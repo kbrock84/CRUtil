@@ -1,7 +1,7 @@
 ﻿using System.IO;
-using ComLibRegUtil.Directories;
+using ComLibRegUtil.CRutil.Directories;
+using ComLibRegUtil.CRutil.Dll;
 using NUnit.Framework;
-using ComLibRegUtil.Dll;
 
 namespace TestComLibRegUtil
 {

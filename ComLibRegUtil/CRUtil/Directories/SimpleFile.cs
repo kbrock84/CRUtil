@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace ComLibRegUtil.Directories
+namespace ComLibRegUtil.CRutil.Directories
 {
     public class SimpleFile : ISimpleFile
     {

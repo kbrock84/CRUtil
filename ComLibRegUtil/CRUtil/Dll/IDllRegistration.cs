@@ -1,4 +1,4 @@
-﻿namespace ComLibRegUtil.Dll
+﻿namespace ComLibRegUtil.CRutil.Dll
 {
     internal interface IDllRegistration
     {

@@ -1,5 +1,5 @@
 ﻿
-namespace ComLibRegUtil.Directories
+namespace ComLibRegUtil.CRutil.Directories
 {
     public class RegAsmLocation : IExecutableLocation
     {

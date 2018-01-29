@@ -1,6 +1,5 @@
-﻿using System.Runtime.CompilerServices;
-
-namespace ComLibRegUtil.Directories
+﻿
+namespace ComLibRegUtil.CRutil.Directories
 {
     public interface IExecutableLocation
     {

@@ -1,7 +1,7 @@
 ﻿using System.IO;
-using ComLibRegUtil.Directories;
+using ComLibRegUtil.CRutil.Directories;
 
-namespace ComLibRegUtil.Dll
+namespace ComLibRegUtil.CRutil.Dll
 {
     public class ComDllRegistration : IDllRegistration
     {

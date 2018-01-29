@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace ComLibRegUtil.Data
+namespace ComLibRegUtil.CRutil.Data
 {
     public class Config
     {

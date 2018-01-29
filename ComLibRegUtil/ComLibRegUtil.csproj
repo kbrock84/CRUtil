@@ -47,26 +47,29 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Data\Config.cs" />
-    <Compile Include="Data\ConfigJsonReader.cs" />
-    <Compile Include="Data\ConfigJsonWriter.cs" />
-    <Compile Include="Directories\DirectoryLocator.cs" />
-    <Compile Include="Directories\IDirectoryLocator.cs" />
-    <Compile Include="Directories\IExecutableLocation.cs" />
-    <Compile Include="Directories\ISimpleDirectory.cs" />
-    <Compile Include="Directories\ISimpleFile.cs" />
-    <Compile Include="Directories\RegAsmLocation.cs" />
-    <Compile Include="Directories\SimpleDirectory.cs" />
-    <Compile Include="Directories\SimpleFile.cs" />
-    <Compile Include="Dll\ComDllRegistration.cs" />
-    <Compile Include="Dll\DllInstaller.cs" />
-    <Compile Include="Dll\IDllRegistration.cs" />
-    <Compile Include="Dll\ISimpleProcess.cs" />
-    <Compile Include="Dll\SimpleProcess.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="CRUtil\Data\Config.cs" />
+    <Compile Include="CRUtil\Data\ConfigJsonReader.cs" />
+    <Compile Include="CRUtil\Data\ConfigJsonWriter.cs" />
+    <Compile Include="CRUtil\Directories\DirectoryLocator.cs" />
+    <Compile Include="CRUtil\Directories\IDirectoryLocator.cs" />
+    <Compile Include="CRUtil\Directories\IExecutableLocation.cs" />
+    <Compile Include="CRUtil\Directories\ISimpleDirectory.cs" />
+    <Compile Include="CRUtil\Directories\ISimpleFile.cs" />
+    <Compile Include="CRUtil\Directories\RegAsmLocation.cs" />
+    <Compile Include="CRUtil\Directories\SimpleDirectory.cs" />
+    <Compile Include="CRUtil\Directories\SimpleFile.cs" />
+    <Compile Include="CRUtil\Dll\ComDllRegistration.cs" />
+    <Compile Include="CRUtil\Dll\DllInstaller.cs" />
+    <Compile Include="CRUtil\Dll\IDllRegistration.cs" />
+    <Compile Include="CRUtil\Dll\ISimpleProcess.cs" />
+    <Compile Include="CRUtil\Dll\SimpleProcess.cs" />
+    <Compile Include="CRUtil\Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CRUtil" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
