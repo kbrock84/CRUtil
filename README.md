@@ -1,11 +1,51 @@
 # CRUtil
 
-<h3>v0.1.0</h3>
+<h4>COM Registration Utility library for registering COM visible libraries on Windows.</h4>
+<h3>v1.0.0</h3>
 
-COM Registration Utility library for registering COM visible libraries on Windows.
 This library automatically locates and uses the RegAsm.exe utility and will register a .Net class library, passing the <code>/tlb:</code> command, to generate a COM visible library. 
 
-<h3>This is a personal utility that is subject to refactoring but open to all</h3>
+<h3>This is a personal utility that is subject to API breaking changes. Semantic versioning is used.</h3>
+
+Example Usage:
+
+```C#
+
+public static void Main(string[] args)
+{
+    Config config = new Config(
+        libraryOrigin: @"C:\SomeDirectory\MyClassLibrary.dll",
+        libraryDestination: @"C:\Windows\SysWOW64\MyClassLibrary.dll",
+        outputFileName: "MyClassLibraryTlb.dll");
+    
+    RegAsmLocation regAsmLocation = RegAsmLocation.MakeDefaultRegAsmLocation();
+    
+    DllInstaller installer = new DllInstaller();
+    installer.Install(config, regAsmLocation);
+}
+
+```
+
+You may save your configuration in Json format using <code>ConfigJsonWriter</code>:
+
+```C#
+
+  ConfigData configData = new ConfigData(
+            libraryOrigin: @"C:\Users\PC\MyLibrary.dll",
+            libraryDestination: @"C:\Windows\SysWOW64\MyLibrary.dll",
+            outputFileName: @"MyLibraryForComVisibility.dll");
+
+  ConfigJsonWriter.WriteConfiguration("installconfig.json", configData);
+
+```
+
+You may also read in the <code>ConfigData</code> object form your created Json file using the <code>ConfigJsonReader</code>.
+
+```C#
+  
+  ConfigData configData = ConfigJsonReader.ReadConfiguration("installconfig.json");
+  
+```
 
 Be sure to decorate your class library with the proper <code>ComVisible(true)</code> attributes:
 
@@ -37,36 +77,4 @@ namespace RiderLibraryTest
 }
 ```
 
-You may save your configuration in Json format using <code>ConfigJsonWriter</code>:
 
-```C#
-
-  ConfigData configData = new ConfigData(
-            libraryOrigin: @"C:\Users\PC\MyLibrary.dll",
-            libraryDestination: @"C:\Windows\SysWOW64\MyLibrary.dll",
-            outputFileName: @"MyLibraryForComVisibility.dll");
-
-  ConfigJsonWriter.WriteConfiguration("installconfig.json", configData);
-
-```
-
-You may also read in the <code>ConfigData</code> object form your created Json file using the <code>ConfigJsonReader</code>.
-
-```C#
-  
-  ConfigData configData = ConfigJsonReader.ReadConfiguration("installconfig.json");
-  
-```
-Locate the RegAsm.exe utility using the <code>RegAsmLocation</code> object, then use the <code>ComDllCreator</code> to register your COM visible library. pass the Microsoft.Net folder to <code>RegAsmLocation.Locate(string dotNetDirs)</code>:
-
-```C#
-
-  RegAsmLocation regAsmLocation = new RegAsmLocation();
-  string regAsmExe = regAsmLocation.Locate(@"C:\Windows\Microsoft.Net");
-  
-  ComDllCreator dllCreator = new ComDllCreator();
-  dllCreator.CreateComDll(configData.LibraryDestination, regAsmExe, configData.OutputFileName);
-
-```
-
-You may also manually create the RegAsm.exe location by manually assigning the <code>RegAsmLocation.Location</code> property.
