@@ -3,35 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="011e2ae9-993f-404c-b379-3cbfcb64ab49" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ComLibRegUtil/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.ComLibRegUtil/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ComRegistrationApp/bin/Debug/ComLibRegUtil.dll" afterPath="$PROJECT_DIR$/ComRegistrationApp/bin/Debug/ComLibRegUtil.dll" />
-      <change beforePath="$PROJECT_DIR$/ComRegistrationApp/bin/Debug/ComLibRegUtil.pdb" afterPath="$PROJECT_DIR$/ComRegistrationApp/bin/Debug/ComLibRegUtil.pdb" />
-      <change beforePath="$PROJECT_DIR$/ComRegistrationApp/bin/Debug/ComRegistrationApp.exe" afterPath="$PROJECT_DIR$/ComRegistrationApp/bin/Debug/ComRegistrationApp.exe" />
-      <change beforePath="$PROJECT_DIR$/ComRegistrationApp/bin/Debug/ComRegistrationApp.pdb" afterPath="$PROJECT_DIR$/ComRegistrationApp/bin/Debug/ComRegistrationApp.pdb" />
-      <change beforePath="$PROJECT_DIR$/ComRegistrationApp/obj/Debug/ComRegistrationApp.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/ComRegistrationApp/obj/Debug/ComRegistrationApp.csprojResolveAssemblyReference.cache" />
-      <change beforePath="$PROJECT_DIR$/ComRegistrationApp/obj/Debug/ComRegistrationApp.exe" afterPath="$PROJECT_DIR$/ComRegistrationApp/obj/Debug/ComRegistrationApp.exe" />
-      <change beforePath="$PROJECT_DIR$/ComRegistrationApp/obj/Debug/ComRegistrationApp.pdb" afterPath="$PROJECT_DIR$/ComRegistrationApp/obj/Debug/ComRegistrationApp.pdb" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/Properties/AssemblyInfo.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/TestProject1.csproj" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/ComLibRegUtil.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/ComLibRegUtil.pdb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/Newtonsoft.Json.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/Newtonsoft.Json.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/System.IO.Abstractions.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/TestProject1.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/TestProject1.pdb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/TestingHelpers.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/nunit.framework.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/nunit.framework.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/obj/Debug/TestProject1.csproj.CopyComplete" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/obj/Debug/TestProject1.csproj.CoreCompileInputs.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/obj/Debug/TestProject1.csproj.FileListAbsolute.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/obj/Debug/TestProject1.csprojResolveAssemblyReference.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/obj/Debug/TestProject1.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/obj/Debug/TestProject1.pdb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestProject1/packages.config" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ComRegistrationApp/Program.cs" afterPath="$PROJECT_DIR$/ComRegistrationApp/Program.cs" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/ComLibRegUtil.dll" afterPath="$PROJECT_DIR$/bin/Release/ComLibRegUtil.dll" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/ComLibRegUtil.pdb" afterPath="$PROJECT_DIR$/bin/Release/ComLibRegUtil.pdb" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/ComLibRegUtil.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/obj/Release/ComLibRegUtil.csproj.CoreCompileInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/ComLibRegUtil.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/obj/Release/ComLibRegUtil.csproj.FileListAbsolute.txt" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/ComLibRegUtil.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/obj/Release/ComLibRegUtil.csprojResolveAssemblyReference.cache" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/ComLibRegUtil.dll" afterPath="$PROJECT_DIR$/obj/Release/ComLibRegUtil.dll" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/ComLibRegUtil.pdb" afterPath="$PROJECT_DIR$/obj/Release/ComLibRegUtil.pdb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,13 +24,13 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ComRegistrationApp/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+            <state relative-caret-position="352">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
-                <marker date="1517190826849" expanded="false" signature="6:104" ph="..." />
-                <marker date="1517190826849" expanded="true" signature="134:767" ph="{...}" />
-                <marker date="1517190826849" expanded="true" signature="163:765" ph="{...}" />
-                <marker date="1517190826849" expanded="true" signature="216:759" ph="{...}" />
+                <marker date="1517255342560" expanded="false" signature="6:104" ph="..." />
+                <marker date="1517255342560" expanded="true" signature="134:540" ph="{...}" />
+                <marker date="1517255342560" expanded="true" signature="163:538" ph="{...}" />
+                <marker date="1517255342560" expanded="true" signature="216:532" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -139,10 +118,10 @@
         <option value="$PROJECT_DIR$/CRUtil/Dll/ComDllRegistration.cs" />
         <option value="$PROJECT_DIR$/CRUtil/Directories/IExecutableLocation.cs" />
         <option value="$PROJECT_DIR$/CRUtil/Dll/ISimpleProcess.cs" />
-        <option value="$PROJECT_DIR$/ComRegistrationApp/Program.cs" />
         <option value="$PROJECT_DIR$/TestComLibRegUtil/TestComDllRegistration.cs" />
         <option value="$PROJECT_DIR$/TestComLibRegUtil/TestDirectoryLocator.cs" />
         <option value="$PROJECT_DIR$/TestComLibRegUtil/TestRegAsmLocation.cs" />
+        <option value="$PROJECT_DIR$/ComRegistrationApp/Program.cs" />
       </list>
     </option>
   </component>
@@ -193,37 +172,6 @@
               <item name="ComLibRegUtil" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="CRUtil" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="ComLibRegUtil (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="ComLibRegUtil" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="CRUtil" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Data" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="ComLibRegUtil (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="ComLibRegUtil" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="CRUtil" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Directories" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="ComLibRegUtil (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="ComLibRegUtil" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="CRUtil" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Dll" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="ComLibRegUtil (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="ComRegistrationApp" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="ComLibRegUtil (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="TestComLibRegUtil" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -247,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.Default">
+  <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/ComRegistrationApp/bin/Debug/ComRegistrationApp.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -263,9 +211,6 @@
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
-    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -287,11 +232,13 @@
       <workItem from="1517117073798" duration="4488000" />
       <workItem from="1517154695639" duration="1267000" />
       <workItem from="1517160111581" duration="2832000" />
+      <workItem from="1517254840246" duration="192000" />
+      <workItem from="1517255159303" duration="244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37783000" />
+    <option name="totallyTimeSpent" value="40092000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -304,16 +251,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27837837" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2881081" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -365,92 +313,43 @@
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/CRUtil/Directories/DirectoryLocator.cs</url>
           <line>24</line>
-          <properties documentPath="$PROJECT_DIR$/Directories/DirectoryLocator.cs">
-            <startOffsets>
-              <startOffset value="771" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="876" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/Directories/DirectoryLocator.cs" />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/CRUtil/Directories/DirectoryLocator.cs</url>
           <line>14</line>
-          <properties documentPath="$PROJECT_DIR$/Directories/DirectoryLocator.cs">
-            <startOffsets>
-              <startOffset value="478" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="499" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/Directories/DirectoryLocator.cs" />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/CRUtil/Directories/DirectoryLocator.cs</url>
           <line>19</line>
-          <properties documentPath="$PROJECT_DIR$/Directories/DirectoryLocator.cs">
-            <startOffsets>
-              <startOffset value="640" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="661" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/Directories/DirectoryLocator.cs" />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/CRUtil/Directories/DirectoryLocator.cs</url>
           <line>10</line>
-          <properties documentPath="$PROJECT_DIR$/Directories/DirectoryLocator.cs">
-            <startOffsets>
-              <startOffset value="342" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="370" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/Directories/DirectoryLocator.cs" />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/CRUtil/Directories/DirectoryLocator.cs</url>
           <line>27</line>
-          <properties documentPath="$PROJECT_DIR$/Directories/DirectoryLocator.cs">
-            <startOffsets>
-              <startOffset value="904" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="925" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/Directories/DirectoryLocator.cs" />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/CRUtil/Directories/RegAsmLocation.cs</url>
           <line>14</line>
-          <properties documentPath="$PROJECT_DIR$/Directories/RegAsmLocation.cs">
-            <startOffsets>
-              <startOffset value="586" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="618" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/Directories/RegAsmLocation.cs" />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/CRUtil/Dll/DllInstaller.cs</url>
           <line>11</line>
-          <properties documentPath="$PROJECT_DIR$/Dll/DllInstaller.cs">
-            <startOffsets>
-              <startOffset value="336" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="412" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/Dll/DllInstaller.cs" />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
@@ -485,13 +384,154 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CRUtil/Directories/IDirectoryLocator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CRUtil/Directories/IExecutableLocation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CRUtil/Directories/ISimpleDirectory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CRUtil/Directories/ISimpleFile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CRUtil/Directories/RegAsmLocation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="30" lean-forward="false" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+          <folding>
+            <marker date="1517190594222" expanded="true" signature="99:1141" ph="{...}" />
+            <marker date="1517190594222" expanded="true" signature="330:628" ph="{...}" />
+            <marker date="1517190594222" expanded="true" signature="694:819" ph="{...}" />
+            <marker date="1517190594222" expanded="true" signature="960:1043" ph="{...}" />
+            <marker date="1517190594222" expanded="true" signature="1086:1135" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CRUtil/Directories/SimpleDirectory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CRUtil/Directories/SimpleFile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CRUtil/Dll/DllInstaller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding>
+            <marker date="1517190654818" expanded="true" signature="6:89" ph="..." />
+            <marker date="1517190654818" expanded="true" signature="157:990" ph="{...}" />
+            <marker date="1517190654818" expanded="true" signature="237:984" ph="{...}" />
+            <marker date="1517190654818" expanded="true" signature="624:696" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CRUtil/Dll/IDllRegistration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CRUtil/Dll/ISimpleProcess.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CRUtil/Dll/SimpleProcess.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CRUtil/Dll/ComDllRegistration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-572">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding>
+            <marker date="1517190674325" expanded="true" signature="6:56" ph="..." />
+            <marker date="1517190674325" expanded="true" signature="149:1525" ph="{...}" />
+            <marker date="1517190674325" expanded="true" signature="293:401" ph="{...}" />
+            <marker date="1517190674325" expanded="true" signature="485:575" ph="{...}" />
+            <marker date="1517190674325" expanded="true" signature="649:714" ph="{...}" />
+            <marker date="1517190674325" expanded="true" signature="838:927" ph="{...}" />
+            <marker date="1517190674325" expanded="true" signature="1016:1519" ph="{...}" />
+            <marker date="1517190674325" expanded="true" signature="1186:1292" ph="{...}" />
+            <marker date="1517190674325" expanded="true" signature="1332:1445" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestComLibRegUtil/TestRegAsmLocation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestComLibRegUtil/TestDirectoryLocator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestComLibRegUtil/TestComDllRegistration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="60" column="9" lean-forward="false" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComRegistrationApp/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <marker date="1517255342560" expanded="false" signature="6:104" ph="..." />
+            <marker date="1517255342560" expanded="true" signature="134:540" ph="{...}" />
+            <marker date="1517255342560" expanded="true" signature="163:538" ph="{...}" />
+            <marker date="1517255342560" expanded="true" signature="216:532" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CRUtil/Dll/DllInstaller.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
           <folding>
             <marker date="1517190654818" expanded="true" signature="6:89" ph="..." />
-            <marker date="1517190654818" expanded="true" signature="125:992" ph="{...}" />
             <marker date="1517190654818" expanded="true" signature="157:990" ph="{...}" />
             <marker date="1517190654818" expanded="true" signature="237:984" ph="{...}" />
             <marker date="1517190654818" expanded="true" signature="624:696" ph="{...}" />
@@ -505,7 +545,6 @@
           <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
           <folding>
             <marker date="1517190674325" expanded="true" signature="6:56" ph="..." />
-            <marker date="1517190674325" expanded="true" signature="92:1527" ph="{...}" />
             <marker date="1517190674325" expanded="true" signature="149:1525" ph="{...}" />
             <marker date="1517190674325" expanded="true" signature="293:401" ph="{...}" />
             <marker date="1517190674325" expanded="true" signature="485:575" ph="{...}" />
@@ -537,10 +576,10 @@
         <state relative-caret-position="242">
           <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
           <folding>
-            <marker date="1517190826849" expanded="false" signature="6:104" ph="..." />
-            <marker date="1517190826849" expanded="true" signature="134:767" ph="{...}" />
-            <marker date="1517190826849" expanded="true" signature="163:765" ph="{...}" />
-            <marker date="1517190826849" expanded="true" signature="216:759" ph="{...}" />
+            <marker date="1517255342560" expanded="false" signature="6:104" ph="..." />
+            <marker date="1517255342560" expanded="true" signature="134:540" ph="{...}" />
+            <marker date="1517255342560" expanded="true" signature="163:538" ph="{...}" />
+            <marker date="1517255342560" expanded="true" signature="216:532" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -550,10 +589,10 @@
         <state relative-caret-position="242">
           <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
           <folding>
-            <marker date="1517190826849" expanded="false" signature="6:104" ph="..." />
-            <marker date="1517190826849" expanded="true" signature="134:767" ph="{...}" />
-            <marker date="1517190826849" expanded="true" signature="163:765" ph="{...}" />
-            <marker date="1517190826849" expanded="true" signature="216:759" ph="{...}" />
+            <marker date="1517255342560" expanded="false" signature="6:104" ph="..." />
+            <marker date="1517255342560" expanded="true" signature="134:540" ph="{...}" />
+            <marker date="1517255342560" expanded="true" signature="163:538" ph="{...}" />
+            <marker date="1517255342560" expanded="true" signature="216:532" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -607,12 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="30" />
-          <folding>
-            <marker date="1517190540238" expanded="true" signature="55:901" ph="{...}" />
-            <marker date="1517190540238" expanded="true" signature="81:899" ph="{...}" />
-            <marker date="1517190540238" expanded="true" signature="326:487" ph="{...}" />
-            <marker date="1517190540238" expanded="true" signature="530:893" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -620,12 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-          <folding>
-            <marker date="1517190545971" expanded="true" signature="6:39" ph="..." />
-            <marker date="1517190545971" expanded="true" signature="76:303" ph="{...}" />
-            <marker date="1517190545971" expanded="true" signature="119:301" ph="{...}" />
-            <marker date="1517190545971" expanded="true" signature="189:295" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -633,12 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-          <folding>
-            <marker date="1517190563323" expanded="true" signature="6:39" ph="..." />
-            <marker date="1517190563323" expanded="true" signature="76:358" ph="{...}" />
-            <marker date="1517190563323" expanded="true" signature="119:356" ph="{...}" />
-            <marker date="1517190563323" expanded="true" signature="203:350" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -648,7 +669,6 @@
           <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
           <folding>
             <marker date="1517190569546" expanded="true" signature="6:47" ph="..." />
-            <marker date="1517190569546" expanded="true" signature="91:943" ph="{...}" />
             <marker date="1517190569546" expanded="true" signature="147:941" ph="{...}" />
             <marker date="1517190569546" expanded="true" signature="319:935" ph="{...}" />
             <marker date="1517190569546" expanded="true" signature="370:693" ph="{...}" />
@@ -663,10 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          <folding>
-            <marker date="1517190574745" expanded="true" signature="77:239" ph="{...}" />
-            <marker date="1517190574745" expanded="true" signature="118:237" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -674,10 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1517190700779" expanded="true" signature="43:138" ph="{...}" />
-            <marker date="1517190700779" expanded="true" signature="86:136" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -685,10 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          <folding>
-            <marker date="1517190584810" expanded="true" signature="77:235" ph="{...}" />
-            <marker date="1517190584810" expanded="true" signature="117:233" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -696,10 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-          <folding>
-            <marker date="1517190589580" expanded="true" signature="42:125" ph="{...}" />
-            <marker date="1517190589580" expanded="true" signature="77:123" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -708,7 +712,6 @@
         <state relative-caret-position="22">
           <caret line="1" column="30" lean-forward="false" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
           <folding>
-            <marker date="1517190594222" expanded="true" signature="43:1143" ph="{...}" />
             <marker date="1517190594222" expanded="true" signature="99:1141" ph="{...}" />
             <marker date="1517190594222" expanded="true" signature="330:628" ph="{...}" />
             <marker date="1517190594222" expanded="true" signature="694:819" ph="{...}" />
@@ -722,14 +725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-          <folding>
-            <marker date="1517190599834" expanded="true" signature="6:50" ph="..." />
-            <marker date="1517190599834" expanded="true" signature="94:596" ph="{...}" />
-            <marker date="1517190599834" expanded="true" signature="148:594" ph="{...}" />
-            <marker date="1517190599834" expanded="true" signature="247:311" ph="{...}" />
-            <marker date="1517190599834" expanded="true" signature="370:434" ph="{...}" />
-            <marker date="1517190599834" expanded="true" signature="501:588" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -737,11 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          <folding>
-            <marker date="1517190611022" expanded="true" signature="60:216" ph="{...}" />
-            <marker date="1517190611022" expanded="true" signature="104:214" ph="{...}" />
-            <marker date="1517190611022" expanded="true" signature="150:208" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -751,7 +741,6 @@
           <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
           <folding>
             <marker date="1517190654818" expanded="true" signature="6:89" ph="..." />
-            <marker date="1517190654818" expanded="true" signature="125:992" ph="{...}" />
             <marker date="1517190654818" expanded="true" signature="157:990" ph="{...}" />
             <marker date="1517190654818" expanded="true" signature="237:984" ph="{...}" />
             <marker date="1517190654818" expanded="true" signature="624:696" ph="{...}" />
@@ -763,10 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-          <folding>
-            <marker date="1517190627805" expanded="true" signature="34:172" ph="{...}" />
-            <marker date="1517190627805" expanded="true" signature="76:170" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -774,10 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1517190795572" expanded="true" signature="35:158" ph="{...}" />
-            <marker date="1517190795572" expanded="true" signature="73:156" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -785,12 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          <folding>
-            <marker date="1517190639034" expanded="true" signature="61:437" ph="{...}" />
-            <marker date="1517190639034" expanded="true" signature="113:435" ph="{...}" />
-            <marker date="1517190639034" expanded="true" signature="217:349" ph="{...}" />
-            <marker date="1517190639034" expanded="true" signature="378:429" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -800,7 +775,6 @@
           <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
           <folding>
             <marker date="1517190674325" expanded="true" signature="6:56" ph="..." />
-            <marker date="1517190674325" expanded="true" signature="92:1527" ph="{...}" />
             <marker date="1517190674325" expanded="true" signature="149:1525" ph="{...}" />
             <marker date="1517190674325" expanded="true" signature="293:401" ph="{...}" />
             <marker date="1517190674325" expanded="true" signature="485:575" ph="{...}" />
@@ -817,18 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
-          <folding>
-            <marker date="1517190872728" expanded="false" signature="6:96" ph="..." />
-            <marker date="1517190872728" expanded="true" signature="125:1661" ph="{...}" />
-            <marker date="1517190872728" expanded="true" signature="181:1659" ph="{...}" />
-            <marker date="1517190872728" expanded="true" signature="242:482" ph="{...}" />
-            <marker date="1517190872728" expanded="true" signature="369:472" ph="{...}" />
-            <marker date="1517190872728" expanded="true" signature="536:1085" ph="{...}" />
-            <marker date="1517190872728" expanded="true" signature="608:984" ph="{...}" />
-            <marker date="1517190872728" expanded="true" signature="675:969" ph="{...}" />
-            <marker date="1517190872728" expanded="true" signature="1047:1075" ph="{...}" />
-            <marker date="1517190872728" expanded="true" signature="1166:1653" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -836,17 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-374">
           <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-          <folding>
-            <marker date="1517190853152" expanded="false" signature="7:77" ph="..." />
-            <marker date="1517190853152" expanded="true" signature="107:1924" ph="{...}" />
-            <marker date="1517190853152" expanded="true" signature="165:1922" ph="{...}" />
-            <marker date="1517190853152" expanded="true" signature="269:825" ph="{...}" />
-            <marker date="1517190853152" expanded="true" signature="331:564" ph="{...}" />
-            <marker date="1517190853152" expanded="true" signature="937:1422" ph="{...}" />
-            <marker date="1517190853152" expanded="true" signature="999:1175" ph="{...}" />
-            <marker date="1517190853152" expanded="true" signature="1523:1916" ph="{...}" />
-            <marker date="1517190853152" expanded="true" signature="1585:1715" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -854,33 +805,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1430">
           <caret line="68" column="37" lean-forward="false" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
-          <folding>
-            <marker date="1517190840735" expanded="false" signature="6:111" ph="..." />
-            <marker date="1517190840735" expanded="true" signature="140:3134" ph="{...}" />
-            <marker date="1517190840735" expanded="true" signature="200:3132" ph="{...}" />
-            <marker date="1517190840735" expanded="true" signature="255:637" ph="{...}" />
-            <marker date="1517190840735" expanded="true" signature="369:441" ph="{...}" />
-            <marker date="1517190840735" expanded="true" signature="501:566" ph="{...}" />
-            <marker date="1517190840735" expanded="true" signature="599:627" ph="{...}" />
-            <marker date="1517190840735" expanded="true" signature="689:996" ph="{...}" />
-            <marker date="1517190840735" expanded="true" signature="800:872" ph="{...}" />
-            <marker date="1517190840735" expanded="true" signature="920:985" ph="{...}" />
-            <marker date="1517190840735" expanded="true" signature="1099:1777" ph="{...}" />
-            <marker date="1517190840735" expanded="true" signature="1886:2453" ph="{...}" />
-            <marker date="1517190840735" expanded="true" signature="2559:3126" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ComRegistrationApp/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        <state relative-caret-position="352">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
-            <marker date="1517190826849" expanded="false" signature="6:104" ph="..." />
-            <marker date="1517190826849" expanded="true" signature="134:767" ph="{...}" />
-            <marker date="1517190826849" expanded="true" signature="163:765" ph="{...}" />
-            <marker date="1517190826849" expanded="true" signature="216:759" ph="{...}" />
+            <marker date="1517255342560" expanded="false" signature="6:104" ph="..." />
+            <marker date="1517255342560" expanded="true" signature="134:540" ph="{...}" />
+            <marker date="1517255342560" expanded="true" signature="163:538" ph="{...}" />
+            <marker date="1517255342560" expanded="true" signature="216:532" ph="{...}" />
           </folding>
         </state>
       </provider>

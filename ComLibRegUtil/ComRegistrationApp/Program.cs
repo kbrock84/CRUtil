@@ -8,11 +8,8 @@ namespace ComRegistrationApp
     {
         public static void Main(string[] args)
         {
-            Config config = new Config(
-                libraryOrigin: @"C:\Users\PC\RiderProjects\RiderLibraryTest\RiderLibraryTest\bin\Debug\RiderLibraryTest.dll",
-                libraryDestination: @"C:\Windows\SysWOW64\RiderLibraryTest.dll",
-                outputFileName: "RiderTest.dll");
-            
+            Config config = ConfigJsonReader.ReadConfiguration(@".\config.json");
+
             RegAsmLocation regAsmLocation = RegAsmLocation.MakeDefaultRegAsmLocation();
             
             DllInstaller installer = new DllInstaller();

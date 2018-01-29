@@ -6,3 +6,13 @@ C:\Users\PC\RiderProjects\RiderLibraryTest\ComLibRegUtil\obj\Release\ComLibRegUt
 C:\Users\PC\RiderProjects\RiderLibraryTest\ComLibRegUtil\obj\Release\ComLibRegUtil.csproj.CoreCompileInputs.cache
 C:\Users\PC\RiderProjects\RiderLibraryTest\ComLibRegUtil\obj\Release\ComLibRegUtil.dll
 C:\Users\PC\RiderProjects\RiderLibraryTest\ComLibRegUtil\obj\Release\ComLibRegUtil.pdb
+C:\Users\PC\RiderProjects\CRUtil\ComLibRegUtil\bin\Release\ComLibRegUtil.dll
+C:\Users\PC\RiderProjects\CRUtil\ComLibRegUtil\bin\Release\ComLibRegUtil.pdb
+C:\Users\PC\RiderProjects\CRUtil\ComLibRegUtil\bin\Release\Newtonsoft.Json.dll
+C:\Users\PC\RiderProjects\CRUtil\ComLibRegUtil\bin\Release\System.IO.Abstractions.dll
+C:\Users\PC\RiderProjects\CRUtil\ComLibRegUtil\bin\Release\TestingHelpers.dll
+C:\Users\PC\RiderProjects\CRUtil\ComLibRegUtil\bin\Release\Newtonsoft.Json.xml
+C:\Users\PC\RiderProjects\CRUtil\ComLibRegUtil\obj\Release\ComLibRegUtil.csprojResolveAssemblyReference.cache
+C:\Users\PC\RiderProjects\CRUtil\ComLibRegUtil\obj\Release\ComLibRegUtil.csproj.CoreCompileInputs.cache
+C:\Users\PC\RiderProjects\CRUtil\ComLibRegUtil\obj\Release\ComLibRegUtil.dll
+C:\Users\PC\RiderProjects\CRUtil\ComLibRegUtil\obj\Release\ComLibRegUtil.pdb

@@ -1,0 +1,10 @@
+C:\Users\PC\RiderProjects\CRUtil\ComLibRegUtil\ComRegistrationApp\bin\Release\ComRegistrationApp.exe
+C:\Users\PC\RiderProjects\CRUtil\ComLibRegUtil\ComRegistrationApp\bin\Release\ComRegistrationApp.pdb
+C:\Users\PC\RiderProjects\CRUtil\ComLibRegUtil\ComRegistrationApp\bin\Release\ComLibRegUtil.dll
+C:\Users\PC\RiderProjects\CRUtil\ComLibRegUtil\ComRegistrationApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\PC\RiderProjects\CRUtil\ComLibRegUtil\ComRegistrationApp\bin\Release\ComLibRegUtil.pdb
+C:\Users\PC\RiderProjects\CRUtil\ComLibRegUtil\ComRegistrationApp\bin\Release\Newtonsoft.Json.xml
+C:\Users\PC\RiderProjects\CRUtil\ComLibRegUtil\ComRegistrationApp\obj\Release\ComRegistrationApp.csprojResolveAssemblyReference.cache
+C:\Users\PC\RiderProjects\CRUtil\ComLibRegUtil\ComRegistrationApp\obj\Release\ComRegistrationApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\RiderProjects\CRUtil\ComLibRegUtil\ComRegistrationApp\obj\Release\ComRegistrationApp.exe
+C:\Users\PC\RiderProjects\CRUtil\ComLibRegUtil\ComRegistrationApp\obj\Release\ComRegistrationApp.pdb
