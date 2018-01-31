@@ -1,6 +1,6 @@
 # CRUtil
 
-<h4>COM Registration Utility library for registering COM visible libraries on Windows.</h4>
+<h2>COM Registration Utility library for registering COM visible libraries on Windows.</h2>
 <h3>v1.0.0</h3>
 
 This library automatically locates and uses the RegAsm.exe utility and will register a .Net class library, passing the <code>/tlb:</code> command, to generate a COM visible library. 
@@ -9,24 +9,22 @@ This library automatically locates and uses the RegAsm.exe utility and will regi
 
 Example Usage:
 
+
 ```C#
 
 public static void Main(string[] args)
 {
-    Config config = new Config(
-        libraryOrigin: @"C:\SomeDirectory\MyClassLibrary.dll",
-        libraryDestination: @"C:\Windows\SysWOW64\MyClassLibrary.dll",
-        outputFileName: "MyClassLibraryTlb.dll");
-    
+    Config config = ConfigJsonReader.ReadConfiguration(@".\config.json");
+
     RegAsmLocation regAsmLocation = RegAsmLocation.MakeDefaultRegAsmLocation();
-    
+
     DllInstaller installer = new DllInstaller();
     installer.Install(config, regAsmLocation);
 }
 
 ```
 
-You may save your configuration in Json format using <code>ConfigJsonWriter</code>:
+See the <a href="https://github.com/kbrock84/CRUtil/blob/master/ComLibRegUtil/ComRegistrationApp/configFileExample.json">Json Config File Example</a> to manually write your configuration or save your configuration in Json format using <code>ConfigJsonWriter</code>:
 
 ```C#
 
