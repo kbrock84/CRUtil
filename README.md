@@ -75,4 +75,7 @@ namespace RiderLibraryTest
 }
 ```
 
+<h2>License</h2>
+<h4>This project is licensed under the terms of the MIT license.</h4>
+
 
